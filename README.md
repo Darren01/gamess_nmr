@@ -1,6 +1,6 @@
-### An R Function to Extract R
+### An R Function to Extract NMR Data
 
-This is a relatively short function with an operating explanation embedded within it.  The function can be copied and pasted from this mark down file.
+This is a relatively short function with an operating explanation embedded within it.  The function can be copied and pasted from this mark down file and used in your R program.
 
 
 ```{r}
