@@ -23,7 +23,7 @@ return(m)
 ```
 An example of a GAMESS (US) log file is [Methanol NMR](http://figshare.com/articles/Methanol_NMR/1262213)
 
-*Download the file 
-*Open R
-*Set your paths
-*Install the function and run it.
+* Download the file 
+* Open R
+* Set your paths
+* Install the function and run it.
